@@ -6,7 +6,7 @@ require_once(APPPATH.'views\guest\includes\banner.php');
 ?>
 <div id="main_area">
     <div class="main_con">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-md-8">
                     <h2>Who We are</h2>

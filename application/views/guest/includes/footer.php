@@ -4,7 +4,7 @@
                <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-6">
-                        <iframe class="map" src="https://www.fb.cpm" frameborder="0"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15700.912056158833!2d123.9192341!3d10.3236288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sph!4v1572238198692!5m2!1sen!2sph"></iframe>
                     </div>
                     <div class="col-md-6">
                         <h2>Contact Information</h2>

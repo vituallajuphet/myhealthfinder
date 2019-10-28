@@ -10,12 +10,12 @@
      else{ ?>
         <div class="nhome_bnr">
             <div class="bnr_info">
-
+                <figure><img src="<?=base_url()?>assets/images/guest/brn_img.jpg" alt="nurse smiling"></figure>
             </div>
             <div class="bnr_title">
-                <div class="container-fluid">
+             
                   <h2><?= $page_title;?></h2>
-                </div>
+             
             </div>
         </div>
      <?php }?>
