@@ -10,7 +10,7 @@ class UserModel extends CI_Model {
 
     public function LOGIN_USER($email, $password){
         $array = array('email' => $email, 'password' => $password);
-        $res =$this->db->from("user_tb")->where($array)->get();
+        $res =$this->db->from("users_tb")->where($array)->get();
         $user_data = [];
         if($res->num_rows() > 0){
             $user_data = [

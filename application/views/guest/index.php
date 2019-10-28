@@ -10,7 +10,7 @@
                 <div class="row">
                     <div class="col-md-7">
                         <main>
-                            <h2>Welcome to Doctor finder</h2>
+                            <h2>Welcome to <?=$title;?></h2>
                             <p class="p_top">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat officia nesciunt ducimus odio est repudiandae enim explicabo saepe nam facilis id rem, atque dolorem accusamus incidunt! Possimus, ipsum maiores? Ducimus?</p>
 
                             <p class="p_top">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi, nihil consectetur. Esse architecto quo id! Id harum assumenda corrupti illo ipsa commodi quasi, nam nulla, eveniet vel, totam rerum omnis.</p>

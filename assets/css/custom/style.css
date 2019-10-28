@@ -1,12 +1,20 @@
 .navbar{margin-bottom: 0;border-radius: 0}
 
 .bnr_cont {}
-.bnr_cont  .jumbotron{min-height: 500px}
+.bnr_cont  .jumbotron{min-height: 555px}
 
 .main_con{min-height: 342px;}
 main p{font-size: 15px;}
 
 main .p_top{font-weight: bold}
+
+
+/* NAV */
+.navbar{min-height: 79px;}
+
+.navbar-brand img{display: inline;  max-width: 171px;}
+
+.navbar-nav > li > a{line-height: 47px;}
 
 /* bottoms */
 #bottom1{background: #d1e1a7;}
@@ -26,6 +34,11 @@ main .p_top{font-weight: bold}
 .btm3_con .carousel{min-height: 254px;background: #c8e6b3;}
 
 .btm3_con .carousel-inner { padding-top: 40px; }
+
+
+/* banner */
+.bnr_img_fixed{position: absolute;}
+.bnr_cont .jumbotron { min-height: 555px; z-index: 23; position: relative; background: none; }
 
 /* footer */
 
@@ -49,4 +62,8 @@ main .p_top{font-weight: bold}
 
 .ftr_top .row .col-md-6{padding:0;}
 .ftr_top .row .col-md-6:last-child{padding-left: 15px;background: #fefcfc;}
+.a_logo {display: block;max-width: 215px;text-align: center;margin: 30px auto 10px;}
+.login_div figure{}
+.login_div figure img{width: 100%;}
+
 

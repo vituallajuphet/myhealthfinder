@@ -5,7 +5,7 @@ require_once(APPPATH.'controllers\module\userModule.php');
 
 class PageController extends CI_Controller {
 
-    protected $appname = "Doctor Finder";
+    protected $appname = "MyCureFinder";
     protected $userModule;
 
     public function __construct()

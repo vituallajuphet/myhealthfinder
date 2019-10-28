@@ -2,7 +2,7 @@
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="<?= base_url();?>">Doctor Finder</a>
+      <a class="navbar-brand" href="<?= base_url();?>"> <img src="<?=base_url()?>/assets/images/small_logo.png" alt="MyCureFinder"></a>
     </div>
     <ul class="nav navbar-nav navbar-right">
        <?php if($isLogged){ ?>
