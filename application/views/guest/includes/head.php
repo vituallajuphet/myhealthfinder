@@ -7,6 +7,9 @@
     <title><?=$title;?></title>
     <link rel="stylesheet" href="<?=base_url();?>assets/css/bootstrap.css">
     <link rel="stylesheet" href="<?=base_url();?>assets/css/custom/style.css">
+    <link rel="stylesheet" href="<?=base_url();?>assets/css/owl-carousel.css">
+    <link rel="stylesheet" href="<?=base_url();?>assets/css/owl-default.css">
+
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 </head>

@@ -27,6 +27,10 @@
 </footer>
 
 <script src="<?= base_url();?>assets/js/jquery-2.1.1.min.js"></script>
+
+
 <script src="<?= base_url();?>assets/js/bootstrap.js"></script>
+<script src="<?= base_url();?>assets/js/owl.js"></script>
+<script src="<?= base_url();?>assets/js/app.js"></script>
 </body>
 </html>

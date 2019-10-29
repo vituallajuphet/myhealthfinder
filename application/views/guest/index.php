@@ -6,7 +6,7 @@
 ?>
     <div id="main_area">
         <div class="main_con">
-            <div class="container-fluid">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-7">
                         <main>

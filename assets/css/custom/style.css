@@ -38,8 +38,9 @@ main .p_top{font-weight: bold}
 
 /* banner */
 .bnr_img_fixed{position: absolute;}
-.bnr_cont .jumbotron { min-height: 555px; z-index: 23; position: relative; background: none; }
-
+.bnr_cont .jumbotron { min-height: 448px; z-index: 23; position: relative; background: none; color: #fff;}
+.bnr_cont { position: relative; overflow: hidden;}
+.bnr_cont:before{content: "";width: 100%;height: 100%;background: rgba(0, 0, 0, 0.5);position: absolute;z-index: 1;}
 /* footer */
 
 .ftr_top .map{width: 100%;height: 100%}
@@ -67,3 +68,8 @@ main .p_top{font-weight: bold}
 .login_div figure img{width: 100%;}
 
 
+.btm3_con{min-height: 400px;}
+
+.qst_cont{text-align: center;}
+.qst_cont figure{width: 100%;  max-width: 129px;  margin: 0 auto;}
+.qst_cont section{background: #fff; min-height: 300px;border: 1px solid gray;padding: 20px 10px;width: 260px;}

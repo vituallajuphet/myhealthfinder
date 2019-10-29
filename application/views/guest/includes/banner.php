@@ -19,9 +19,7 @@
                 <figure><img src="<?=base_url()?>assets/images/guest/brn_img.jpg" alt="nurse smiling"></figure>
             </div>
             <div class="bnr_title">
-             
                   <h2><?= $page_title;?></h2>
-             
             </div>
         </div>
      <?php }?>
