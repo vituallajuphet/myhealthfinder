@@ -66,10 +66,16 @@ main .p_top{font-weight: bold}
 .a_logo {display: block;max-width: 215px;text-align: center;margin: 30px auto 10px;}
 .login_div figure{}
 .login_div figure img{width: 100%;}
+.btm3_con h2{font-size: 39px; text-align: center;}
 
-
-.btm3_con{min-height: 400px;}
-
+.btm3_con { min-height: 529px; background: #f0ecec; }
 .qst_cont{text-align: center;}
-.qst_cont figure{width: 100%;  max-width: 129px;  margin: 0 auto;}
-.qst_cont section{background: #fff; min-height: 300px;border: 1px solid gray;padding: 20px 10px;width: 260px;}
+.qst_cont figure{width: 100%;  max-width: 88px;  margin: 0 auto;}
+.qst_cont section { background: #d1e1a7; min-height: 360px; border: 1px solid #e8e8e8; padding: 20px 0px 0px; width: 300px; margin: 0 auto; border-radius: 6px; }
+
+.owl-nav.disabled{display: block!important;}
+
+button.owl-next, button.owl-prev{font-size:40px!important;margin: 0 20px;}
+
+.body-cards { text-align: left; min-height: 230px; background: #fff;padding: 10px; }
+

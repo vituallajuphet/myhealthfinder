@@ -61,15 +61,20 @@
         <div class="container">
             <h2>Latest Questions</h2>
             <br>
-            <div class="owl-carousel qst_cont">
-                <section>
+            <div class="owl-carousel owl-theme qst_cont">
+                <section class="item">
                 <figure><img src="<?=base_url();?>assets/images/profile_dumy.png" alt="profile"></figure>
+                <div class="body-cards">
+                    <h3>sample question</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit..</p>
+                </div>
+
                 </section>
-                <section>
+                <section class="item">
                 <figure><img src="<?=base_url();?>assets/images/profile_dumy.png" alt="profile"></figure>
                     asdasd 
                 </section>
-                <section>
+                <section class="item">
                 <figure><img src="<?=base_url();?>assets/images/profile_dumy.png" alt="profile"></figure>
                     asdasd
                 </section>
