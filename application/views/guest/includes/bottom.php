@@ -38,6 +38,7 @@
                     <figure><img src="<?=base_url();?>assets/images/guest/code_igniter.png" alt="codeigniter"></figure>
                     <h4>Services 1</h4>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                    
                 </div>
                 <div class="col-md-4 serv-colm">
                     <figure><img src="<?=base_url();?>assets/images/guest/code_igniter.png" alt="codeigniter"></figure>
@@ -59,7 +60,7 @@
 <div id="bottom3">
     <div class="btm3_con">
         <div class="container">
-            <h2>Latest Questions</h2>
+            <h2>Latest Questions Post</h2>
             <br>
             <div class="owl-carousel owl-theme qst_cont">
                 <section class="item">
@@ -67,16 +68,37 @@
                 <div class="body-cards">
                     <h3>sample question</h3>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit..</p>
+                    <div class="btn_divs">
+                        <a href=""><i class="fa fa-heart"></i></a>
+                        <a href=""><i class="fa fa-comment"></i></a>
+                        <a href=""><i class="fa fa-eye"></i></a>
+                    </div>
                 </div>
+                </section>
 
+                <section class="item">
+                <figure><img src="<?=base_url();?>assets/images/profile_dumy.png" alt="profile"></figure>
+                <div class="body-cards">
+                    <h3>sample question</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit..</p>
+                    <div class="btn_divs">
+                        <a href=""><i class="fa fa-heart"></i></a>
+                        <a href=""><i class="fa fa-comment"></i></a>
+                        <a href=""><i class="fa fa-eye"></i></a>
+                    </div>
+                </div>
                 </section>
                 <section class="item">
                 <figure><img src="<?=base_url();?>assets/images/profile_dumy.png" alt="profile"></figure>
-                    asdasd 
-                </section>
-                <section class="item">
-                <figure><img src="<?=base_url();?>assets/images/profile_dumy.png" alt="profile"></figure>
-                    asdasd
+                <div class="body-cards">
+                    <h3>sample question</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit..</p>
+                    <div class="btn_divs">
+                        <a href=""><i class="fa fa-heart"></i></a>
+                        <a href=""><i class="fa fa-comment"></i></a>
+                        <a href=""><i class="fa fa-eye"></i></a>
+                    </div>
+                </div>
                 </section>
             </div>
         </div>

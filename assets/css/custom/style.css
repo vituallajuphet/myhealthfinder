@@ -70,12 +70,16 @@ main .p_top{font-weight: bold}
 
 .btm3_con { min-height: 529px; background: #f0ecec; }
 .qst_cont{text-align: center;}
-.qst_cont figure{width: 100%;  max-width: 88px;  margin: 0 auto;}
-.qst_cont section { background: #d1e1a7; min-height: 360px; border: 1px solid #e8e8e8; padding: 20px 0px 0px; width: 300px; margin: 0 auto; border-radius: 6px; }
+.qst_cont figure { width: 100%; max-width: 88px; margin: 0 auto 15px; }
+.qst_cont section { background: #e1e3dc; border: 1px solid #e8e8e8; padding: 20px 0px 0px; width: 300px; margin: 0 auto; border-radius: 6px; }
 
 .owl-nav.disabled{display: block!important;}
 
 button.owl-next, button.owl-prev{font-size:40px!important;margin: 0 20px;}
 
-.body-cards { text-align: left; min-height: 230px; background: #fff;padding: 10px; }
+.body-cards { text-align: left; min-height: 230px; background: #fff;padding: 10px; position: relative;}
+.body-cards .rmore{display: inline-block; vertical-align: top; margin: 9px 0px 0; font-size: 15px;}
 
+.btn_divs { position: absolute; bottom: 15px; }
+.btn_divs a { font-size: 21px; display: inline-block; vertical-align: middle; margin-right: 5px; color: #222; }
+.btn_divs a:hover{opacity: .6;}
